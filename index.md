@@ -1,6 +1,6 @@
 ## Aurum
 
-_Aurum is the best and the fastest web browser currently in development
+_Aurum is the best and the fastest web browser currently in development_
 
 ## Features-
 ## Quick Search - Search fast and get the fastest results in top spead
